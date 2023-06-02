@@ -14,6 +14,9 @@ Welcome to the documentation for the Library Campanian Robot project. This proje
 9. [Robotic Arm](#robotic-arm)
 10. [Autonomous Operation](#autonomous-operation)
 
+![image](https://github.com/Shridhar-Pandey/LIBRARY-COMPANION-ROBOT/assets/85010702/0155f993-4b43-41fb-862a-672176105b84)
+
+
 ## 1. Introduction<a name="introduction"></a>
 The Library Campanian Robot project aims to revolutionize the way libraries manage their operations by automating several key tasks. The robot is equipped with advanced technologies such as line following, RFID book detection, short path detection using MATLAB, and a functional robotic arm. These components work together seamlessly to create an efficient and autonomous library management system.
 
