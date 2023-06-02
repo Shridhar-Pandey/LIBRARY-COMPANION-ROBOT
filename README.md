@@ -12,7 +12,6 @@ Welcome to the documentation for the Library Campanian Robot project. This proje
 7. [RFID Book Detection](#rfid-book-detection)
 8. [Short Path Detection using MATLAB](#short-path-detection-using-matlab)
 9. [Robotic Arm](#robotic-arm)
-10. [Autonomous Operation](#autonomous-operation)
 
 ![image](https://github.com/Shridhar-Pandey/LIBRARY-COMPANION-ROBOT/assets/85010702/0155f993-4b43-41fb-862a-672176105b84)
 
